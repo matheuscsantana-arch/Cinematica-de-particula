@@ -31,7 +31,7 @@ python Cinematica_de_particula.py
 
 ## 🕹️ Como usar
 
-1. Inicie o programa e escolha [n] para começar a entrada de dados.
+1. Inicie o programa e digite n para começar a entrada de dados.
 2. Informe o grau do polinômio (ex: 2 para uma função quadrática).
 3. Insira os coeficientes para cada termo (ex: $t^2, t$ e termo constante).
 4. O programa exibirá as equações resultantes no console.
