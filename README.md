@@ -39,21 +39,41 @@ python cinematica_de_particula.py
 
 ## 💡 Exemplo de uso
 
-O programa vai perguntar ao usuário se ele deseja encerrar o programa.
-Ao digitar "n" o programa irá pedir o grau do polinômio e seus coeficientes.
-Inserindo 2 para o grau, 5 para o primeiro coeficiente, 2 para o segundo coeficiente e 10 para o último coeficiente:
-![Polinômio de entrada](assets/polinomio.PNG)
+- O programa vai perguntar ao usuário se ele deseja encerrar o programa.
+- Ao digitar "n" o programa irá pedir o grau do polinômio e seus coeficientes.
+- Inserindo 2 para o grau, 5 para o primeiro coeficiente, 2 para o segundo coeficiente e 10 para o último coeficiente:
 
-O programa calcula e exibe as equações do movimento:
-![Equações do movimento](assets/equacoes.PNG)
+<p align="left">
+  <img src="assets/polinomio.PNG" alt="Polinômio de entrada" >
+</p>
 
-Em seguida plota os gráficos:
-![Gráfico da posição](assets/grafico_pos.PNG)
-![Gráfico da velocidade](assets/grafico_vel.PNG)
-![Gráfico da aceleração](assets/grafico_acel.PNG)
+- O programa calcula e exibe as equações do movimento:
 
-Após fechar os gráficos, o programa pergunta ao usuário se ele deseja encerrar o programa:
-![Loop iterativo](assets/loop.PNG)
+<p align="left">
+  <img src="assets/equacoes.PNG" alt="Equações do movimento" >
+</p>
+
+- Em seguida plota os gráficos:
+- s(t)
+<p align="left">
+  <img src="assets/grafico_pos.PNG" alt="Gráfico da posição" width="400">
+</p>
+
+- v(t)
+<p align="left">
+  <img src="assets/grafico_vel.PNG" alt="Gráfico da velocidade" width="400">
+</p>
+
+- a(t)
+<p align="left">
+  <img src="assets/grafico_acel.PNG" alt="Gráfico da aceleração" width="400">
+</p>
+
+- Após fechar os gráficos, o programa pergunta ao usuário se ele deseja encerrar o programa:
+
+<p align="left">
+  <img src="assets/loop.PNG" alt="Loop iterativo" >
+</p>
 
 ## 🚀 Status do Projeto
 
